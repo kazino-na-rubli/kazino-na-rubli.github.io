@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-na-rubli.github.io
+Sitemap: https://kazino-na-rubli.github.io/sitemap.xml
